@@ -18,4 +18,8 @@
 		}
 	
 ?>
+<br>
+<br>
+
 <a href="index.php">Sair</a>
+
